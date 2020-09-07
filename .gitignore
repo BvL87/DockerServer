@@ -1,0 +1,8 @@
+*
+*/
+!.gitignore
+!.docker-compose-t2.yml
+traefik/*
+shared/*
+authelia/*
+portainer/*
